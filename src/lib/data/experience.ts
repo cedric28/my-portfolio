@@ -12,7 +12,7 @@ export const experience: Experience[] = [
     company: "MTMGroup",
     role: "Sr. Frontend Developer · Contractor",
     start: "Oct 2025",
-    end: "Aug 2026",
+    end: "Nov 2026",
     bullets: [
       "Developing and maintaining 4 online casino brands (SpinBet, SpinBit, Casiny, VegaStars).",
       "Building reusable UI components using Atomic Design, documented in Storybook.",
@@ -99,14 +99,7 @@ export const experience: Experience[] = [
       "Performed Excel data transformations using SQL Server and Visual Studio SSIS.",
       "Uploaded and served processed data through Heroku infrastructure.",
     ],
-    tech: [
-      "nodedotjs",
-      "nestjs",
-      "postgresql",
-      "sql",
-      "docker",
-      "heroku",
-    ],
+    tech: ["nodedotjs", "nestjs", "postgresql", "sql", "docker", "heroku"],
   },
   {
     company: "CIS Bayad Center",
@@ -117,14 +110,7 @@ export const experience: Experience[] = [
       "Built the Kabahagi Admin portal to manage payments and employee allowances.",
       "Developed serverless AWS-based backends (Lambda, EventBridge, Cognito, QLDB).",
     ],
-    tech: [
-      "nodedotjs",
-      "react",
-      "typescript",
-      "mongodb",
-      "mysql",
-      "aws",
-    ],
+    tech: ["nodedotjs", "react", "typescript", "mongodb", "mysql", "aws"],
   },
   {
     company: "Lamudi Tech Corp",
